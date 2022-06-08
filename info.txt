@@ -1,3 +1,9 @@
 My name is Ajaya. I am studying MERN Stack. I study in Deerhold.
+<<<<<<< HEAD
+
+Maile change gare hai.
+=======
 ok
 ok 
+>>>>>>> e846b49c99caccaf2d1a00cce40c5fefdc742a05
+
